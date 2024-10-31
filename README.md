@@ -1,6 +1,6 @@
 # To-Do List Server
 
-## Description:
+## Description
 This project from my Applied IT Programming course required that we create a implement a HTTP server in Node.js designed for the user to utilize the HTTP methods to create their to do list. It starts off with two entries already made for the user and using the CLI the user can edit the to do list.  
 
 ## Features
